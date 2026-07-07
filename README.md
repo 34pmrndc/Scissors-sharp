@@ -1,5 +1,8 @@
 # ✂️ Scissors# - Token Pruner & Code Optimizer Agent Skill
 
+<p align="center">
+  <img src="resources/logo.png" alt="Scissors# Logo" width="180">
+</p>
 **Scissors#** is a public, open-source agent skill designed to help AI coding agents (such as Claude Code, Cursor, and Codex) review, refactor, and compress source code files. By programmatically stripping comments, docstrings, dead imports, and redundant spacing, this tool saves up to **50%+ of context window tokens** while providing architecture and security suggestions.
 
 ---
